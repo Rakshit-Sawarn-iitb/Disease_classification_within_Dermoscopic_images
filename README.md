@@ -15,3 +15,8 @@ Actinic keratosis / Bowen’s disease (intraepithelial carcinoma) (AKIEC)
 Benign keratosis (solar lentigo / seborrheic keratosis / lichen planus-like keratosis) (BKL)
 Dermatofibroma (DF)
 Vascular lesion (VASC)
+
+This is the first version of the code it can and will definitely be improved with improved methods and resources which i will be doing in coming days.
+
+1) Completing its proper training on a GPU like this was trained only for 3 epochs so the model might be underfitted.
+2) Adding more augmentations to training dataset to increaase the robustness of the model and do better prediction.
